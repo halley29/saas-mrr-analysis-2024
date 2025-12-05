@@ -5,7 +5,7 @@
 
 ## 1. Business Context
 
-Our SaaS technology company has observed **slowing MRR (Monthly Recurring Revenue) growth**.  
+Our SaaS technology company has observed **slowing MRR (Monthly Recurring Revenue) growth**  . 
 The **industry benchmark** for healthy growth is **15%**, but internal performance has been below this target.
 
 The goal of this analysis is to:
@@ -161,3 +161,4 @@ Based on the data and trend, here are **specific recommendations**:
 
 This repository (including `analysis.py` and this `README.md`) was created with assistance from an LLM (ChatGPT / Jules).  
 Commit messages and/or comments reference this to provide transparency of AI involvement.
+
