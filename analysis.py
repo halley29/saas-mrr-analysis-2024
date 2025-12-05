@@ -1,3 +1,4 @@
+# codex used
 """
 SaaS MRR Growth Analysis - 2024
 Generated with help from an LLM (ChatGPT / Jules).
@@ -54,3 +55,4 @@ plt.close()
 print("\nGenerated visualizations:")
 print("- mrr_growth_vs_target.png")
 print("- mrr_growth_bars.png")
+
